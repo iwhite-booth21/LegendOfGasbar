@@ -1,0 +1,12 @@
+﻿<PlayerTracker>
+	<Constant>
+		<Name>Player_Max_Age</Name>
+		<Type>int</Type>
+		<Value>55</Value>
+	</Constant>
+	<Constant>
+		<Name>Player_Max_Address</Name>
+		<Type>int</Type>
+		<Value>25</Value>
+	</Constant>
+</PlayerTracker>

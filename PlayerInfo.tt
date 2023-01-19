@@ -4,7 +4,3 @@
 <#@ import namespace="System.Text" #>
 <#@ import namespace="System.Collections.Generic" #>
 <#@ output extension=".txt" #>
-<# 
-for(int i = 0; i <10; i++)
-	WriteLine($"Hello World {i}");
-#>
